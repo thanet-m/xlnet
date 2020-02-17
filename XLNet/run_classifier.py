@@ -15,6 +15,7 @@ import json
 import random
 from copy import copy
 from collections import defaultdict as dd
+import pandas as pd
 
 import absl.logging as _logging  # pylint: disable=unused-import
 import tensorflow as tf
